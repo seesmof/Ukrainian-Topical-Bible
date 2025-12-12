@@ -1,0 +1,5 @@
+{
+  "name": "Topical Bible Search",
+  "description": "An application that allows users to find topically relevant Bible verses. Users can enter a theme or topic, and the app will display a list of corresponding verses, each linking to BibleGateway for the full context in the Ukrainian translation.",
+  "requestFramePermissions": []
+}
